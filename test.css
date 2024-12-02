@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header ul{
+    background-color:orange;
+    padding: 15px;
+}
+
+ul li{
+    display: inline-block;
+}
+
+ul li a{
+    text-decoration: none;
+    padding-left: 10px;
+    color: black;
+}
+
+a:hover{
+    color: red;
+}
